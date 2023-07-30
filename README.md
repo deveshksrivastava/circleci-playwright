@@ -1,3 +1,6 @@
+link - 
+``https://anivaz.medium.com/running-playwright-tests-in-circleci-b21887d7369e
+
 $ npm init playwright@latest
 
 The command above will download the browsers needed as well as create the following files
