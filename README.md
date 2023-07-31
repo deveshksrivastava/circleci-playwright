@@ -1,3 +1,9 @@
+# playwright
+
+this is used to run e2e testing, we have configured application for circleci and github work flow
+
+
+
 link - 
 ``https://anivaz.medium.com/running-playwright-tests-in-circleci-b21887d7369e
 
